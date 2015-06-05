@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqBot", "MoqBot\MoqBot.csproj", "{5DCF71E5-889A-4D11-87CF-40EE0254CC6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqBot.Tests", "MoqBot.Tests\MoqBot.Tests.csproj", "{98C4ECEE-BB43-4BC1-8473-8CD5E5C12916}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0548640A-C70A-4528-B655-D2CCCD3F58E8}"
+	ProjectSection(SolutionItems) = preProject
+		MoqBot.nuspec = MoqBot.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DCF71E5-889A-4D11-87CF-40EE0254CC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCF71E5-889A-4D11-87CF-40EE0254CC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCF71E5-889A-4D11-87CF-40EE0254CC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCF71E5-889A-4D11-87CF-40EE0254CC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C4ECEE-BB43-4BC1-8473-8CD5E5C12916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C4ECEE-BB43-4BC1-8473-8CD5E5C12916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C4ECEE-BB43-4BC1-8473-8CD5E5C12916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C4ECEE-BB43-4BC1-8473-8CD5E5C12916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
